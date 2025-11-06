@@ -41,4 +41,4 @@ VisualIQ provides a high-speed, accurate, and sustainable industrial AI solution
 
 This project is a high-value commercial application. Due to **proprietary agreements and commercial secrecy**, the source code is kept in a **private repository**.
 
-If you are a serious hiring manager or technical lead, please feel free to contact me via **[Your Email/LinkedIn]** for a confidential technical discussion or a demonstration of the system's architecture and performance.
+If you are a serious hiring manager or technical lead, please feel free to contact me via **https://www.linkedin.com/in/misolmaz/** for a confidential technical discussion or a demonstration of the system's architecture and performance.
