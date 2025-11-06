@@ -9,6 +9,7 @@ Manual or barcode-based product verification is slow and error-prone. VisualIQ p
 ## ⚙️ Technical Architecture
 
 This system demonstrates expertise in **full-stack industrial integration**, bridging Python AI models with industrial hardware.
+![VisualIQ System Architecture Diagram](assets/visualq_architecture.png)
 
 ### **1. AI & Vision Pipeline**
 
